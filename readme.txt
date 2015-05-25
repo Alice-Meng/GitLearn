@@ -17,3 +17,5 @@ Unstaged changes after reset.
 
 Creating a new branch is quick and simple! 
 
+Test multiple branch : feature2.
+
