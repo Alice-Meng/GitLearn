@@ -17,7 +17,12 @@ Unstaged changes after reset.
 
 Creating a new branch is quick and simple! 
 
-Test multiple branch : feature2
+Test multiple branch : feature2--OTHER
 
-Test multiple branch : feature1
+Test multiple branch : feature1--OTHER
+
+Test multiple branch : feature2.--3
+
+Test multiple branch : feature1.--3
+
 
